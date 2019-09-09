@@ -68,5 +68,5 @@ Credits
 * **[0xd4d](https://github.com/0xd4d)** for his awesome work and extensive knowledge!  
 * Members of **[Black Storm Forum](http://board.b-at-s.info/)** for their help!
 * **[Bed](https://github.com/BedTheGod)** for his renamer and constants protection.
-* **[Centos](https://github.com/TrinityNET)** for process monitor & antivm.
-* **[Holly-Hacker](https://github.com/HoLLy-HaCKeR)** for the fake obfuscator and the anti memory edit.
+* **[Centos](https://github.com/TrinityNET)** for process monitor, antivm & force admin.
+* **[Holly-Hacker](https://github.com/HoLLy-HaCKeR)** for the fake obfuscator, the anti memory edit & the antiwatermark.
