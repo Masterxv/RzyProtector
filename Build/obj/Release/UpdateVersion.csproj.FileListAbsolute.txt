@@ -1,0 +1,4 @@
+C:\Users\Rizie\Desktop\RzyProtector - Work\Build\obj\Release\UpdateVersion.csprojAssemblyReference.cache
+C:\Users\Rizie\Desktop\RzyProtector - Work\Build\obj\Release\UpdateVersion.csproj.CoreCompileInputs.cache
+C:\Users\Rizie\Desktop\RzyProtector - Work\Build\obj\Release\UpdateVersion.exe
+C:\Users\Rizie\Desktop\RzyProtector - Work\Build\UpdateVersion.exe
