@@ -1,0 +1,19 @@
+C:\Users\Rizie\source\repos\RzyProtector\build start\RzyProtector.CLI.exe.config
+C:\Users\Rizie\source\repos\RzyProtector\build start\RzyProtector.CLI.exe
+C:\Users\Rizie\source\repos\RzyProtector\build start\RzyProtector.CLI.pdb
+C:\Users\Rizie\source\repos\RzyProtector\RzyProtector.CLI\obj\Debug\RzyProtector.CLI.csprojAssemblyReference.cache
+C:\Users\Rizie\source\repos\RzyProtector\RzyProtector.CLI\obj\Debug\RzyProtector.CLI.csproj.CoreCompileInputs.cache
+C:\Users\Rizie\source\repos\RzyProtector\RzyProtector.CLI\obj\Debug\RzyProtector.CLI.exe
+C:\Users\Rizie\source\repos\RzyProtector\RzyProtector.CLI\obj\Debug\RzyProtector.CLI.pdb
+C:\Users\Rizie\source\repos\RzyProtector\RzyProtector.CLI\obj\Debug\RzyProtector.CLI.csproj.CopyComplete
+C:\Users\Rizie\Desktop\RzyProtector - Work\build start\RzyProtector.CLI.exe.config
+C:\Users\Rizie\Desktop\RzyProtector - Work\build start\RzyProtector.CLI.exe
+C:\Users\Rizie\Desktop\RzyProtector - Work\build start\RzyProtector.CLI.pdb
+C:\Users\Rizie\Desktop\RzyProtector - Work\RzyProtector.CLI\obj\Debug\RzyProtector.CLI.csprojAssemblyReference.cache
+C:\Users\Rizie\Desktop\RzyProtector - Work\RzyProtector.CLI\obj\Debug\RzyProtector.CLI.csproj.CoreCompileInputs.cache
+C:\Users\Rizie\Desktop\RzyProtector - Work\RzyProtector.CLI\obj\Debug\RzyProtector.CLI.csproj.CopyComplete
+C:\Users\Rizie\Desktop\RzyProtector - Work\RzyProtector.CLI\obj\Debug\RzyProtector.CLI.exe
+C:\Users\Rizie\Desktop\RzyProtector - Work\RzyProtector.CLI\obj\Debug\RzyProtector.CLI.pdb
+C:\Users\Rizie\Desktop\RzyProtector - Work\Debug\bin\RzyProtector.CLI.exe.config
+C:\Users\Rizie\Desktop\RzyProtector - Work\Debug\bin\RzyProtector.CLI.exe
+C:\Users\Rizie\Desktop\RzyProtector - Work\Debug\bin\RzyProtector.CLI.pdb
